@@ -32,7 +32,7 @@ The GUI displays a list of numbers as vertical bars, which are sorted using the 
 1. Clone the repository :
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Abhiraman-S-Nair/Python-Concepts.git
 
 2. Navigate to the project directory :
 
